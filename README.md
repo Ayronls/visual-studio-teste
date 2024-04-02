@@ -1,1 +1,2 @@
 # visual-studio-teste 
+Primeiramente foi criado um recurso no AZURE AI Services. Logo em seguida foi explorado Vision Studio onde foi testado algumas possibilidades como "detecção de rostos na imagem", "adição de textos em imagens" e "extração de textos de imagens". 
